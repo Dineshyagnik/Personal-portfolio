@@ -107,7 +107,7 @@ function Home2() {
                   <AiFillInstagram />
                 </a>
               </li>
-              <li className="social-icons">
+              {/* <li className="social-icons">
                 <a
                   href="https://www.facebook.com/chiyaan07"
                   target="_blank"
@@ -116,7 +116,7 @@ function Home2() {
                 >
                   <AiFillFacebook />
                 </a>
-              </li>
+              </li> */}
             </ul>
           </Col>
         </Row>
