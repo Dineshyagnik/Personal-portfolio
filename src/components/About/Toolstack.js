@@ -1,5 +1,6 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
+import {DiWindows,DiEclipse} from "react-icons/di"
 import {
   SiLinux,
   SiVisualstudiocode,
@@ -12,7 +13,7 @@ function Toolstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <SiLinux />
+        <DiWindows />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiVisualstudiocode />
@@ -21,10 +22,7 @@ function Toolstack() {
         <SiPostman />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiVercel />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiHeroku />
+        <DiEclipse />
       </Col>
     </Row>
   );
