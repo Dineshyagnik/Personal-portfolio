@@ -38,7 +38,7 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="Super-Service"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              description="This is a job portal website .In this i have worked as a frontend developer.I created many user interfaces using React.js Component , Hooks and Material -ui and do api integration and fixes many bugs ."
               ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
               demoLink="https://blogs.soumya-jit.tech/"
             />
