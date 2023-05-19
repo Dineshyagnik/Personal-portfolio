@@ -26,7 +26,8 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="Child-Care"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              description="This Child-Care Project is based on the child assessment. It is basically created for child .
+              I have worked on this project and created many user interfaces using Material-UI Framework and done API integration using Javascript and React.js.This Project is associated with UXDLAB SOFTWARE Company."
               ghLink="https://github.com/soumyajit4419/Chatify"
               demoLink="https://chatify-49.web.app/"
             />
