@@ -28,8 +28,8 @@ function Projects() {
               title="Child-Care"
               description="This Child-Care Project is based on the child assessment. It is basically created for child .
               I have worked on this project and created many user interfaces using Material-UI Framework and done API integration using Javascript and React.js.This Project is associated with UXDLAB SOFTWARE Company."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              // ghLink="https://github.com/soumyajit4419/Chatify"
+              // demoLink="https://chatify-49.web.app/"
             />
           </Col>
 
@@ -38,9 +38,10 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="Super-Service"
-              description="This is a job portal website .In this i have worked as a frontend developer.I created many user interfaces using React.js Component , Hooks and Material -ui and do api integration and fixes many bugs ."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              description="This is a job portal website .In this i have worked as a frontend developer.I created many user interfaces using React.js Component , Hooks and Material -ui and do api integration and fixes many bugs .
+              This Project is associated with UXDLAB SOFTWARE Company."
+              // ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
+              // demoLink="https://blogs.soumya-jit.tech/"
             />
           </Col>
 
@@ -49,9 +50,10 @@ function Projects() {
               imgPath={editor}
               isBlog={false}
               title="Auto-Mobile"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+              description="Auto-Mobile is a shopping website where we can buy or order vehicle related Products.Builds with Material-UI,JavaScript and React.js.
+              In this project i have worked as a frontend developer associated with UXDLAB Software."
+              // ghLink="https://github.com/soumyajit4419/Editor.io"
+              // demoLink="https://editor.soumya-jit.tech/"              
             />
           </Col>
 
