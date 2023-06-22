@@ -11,8 +11,9 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Dinesh Yagnik </span>
             from <span className="purple"> Bihar, India.</span>
             <br />
-            I am a pursuing BCA in Information Technology in IMS Noida.
-            Also I have Completed Full Stack Java Development from Ducat .
+            I have completed BCA-Computer Application in Information Technology From IMS Noida affilated with Chaudhary Charan Singh University.
+            Also I have Completed 6 months Full Stack Java Development Program from Ducat .
+            I have Completed 6 months Internship as a Software Developer Intern from UXDLAB SOFTWARE Pvt Ltd.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!

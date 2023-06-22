@@ -6,7 +6,9 @@ import {
   DiReact,
   DiGit,
   DiJava,
-  DiMysql
+  DiMysql,
+  DiSass,
+  DiWordpress
 } from "react-icons/di";
 import {
   SiCss3,
@@ -31,6 +33,12 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiBootstrap />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiSass />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiWordpress />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiReact />
